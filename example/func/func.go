@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func funcTest() {
 	res := plus(1, 2)
 	fmt.Println(res)
 	result := plusPlus(1, 2, 3)
